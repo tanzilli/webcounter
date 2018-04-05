@@ -23,7 +23,7 @@ Import the __webcounter.json__ file using the __Import->Clipboard__ function ava
 
 ## Webpage
 
-To get access at the webpage with the running counter go to:
+To access the webpage with the running counters go to:
 
 <http://raspberrypi.local:1880/cunter>
 
