@@ -2,6 +2,9 @@
 
 NodeRED simple flow to count how many times three pushbuttons are pushed and show the result on a webpage
 
+![Screenshoot](/screenshoot.png)
+
+
 ## Installation
 
 Starting from a working Rasbian Lite (tested on the version March 2018) install NodeRED by typing this command:
