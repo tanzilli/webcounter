@@ -10,8 +10,8 @@ Starting from a working Rasbian Lite (tested on the version March 2018) install 
 
 Access via web to your Raspberry Pi NodeRED interface:
 
- <http://raspberrypi.local:1880>
+<http://raspberrypi.local:1880>
  
- Install the palette __ttb-node-red-counter__ using the Palette manager
+Install the palette __ttb-node-red-counter__ using the Palette manager
 
 Import the webcounter.json file using the Import->Clipboard function available on the NodeRED menu.
