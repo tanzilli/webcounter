@@ -16,7 +16,15 @@ bash <(curl -sL https://raw.githubusercontent.com/node-red/raspbian-deb-package/
 Access via web to your Raspberry Pi NodeRED interface:
 
 <http://raspberrypi.local:1880>
- 
+
 Install the palette __ttb-node-red-counter__ using the Palette manager
 
 Import the __webcounter.json__ file using the __Import->Clipboard__ function available on the NodeRED menu.
+
+## Webpage
+
+To get access at the webpage with the running counter go to:
+
+<http://raspberrypi.local:1880/cunter>
+
+![Webpage](/counter.png)
