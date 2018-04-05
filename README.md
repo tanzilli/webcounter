@@ -16,4 +16,4 @@ Access via web to your Raspberry Pi NodeRED interface:
  
 Install the palette __ttb-node-red-counter__ using the Palette manager
 
-Import the webcounter.json file using the Import->Clipboard function available on the NodeRED menu.
+Import the __webcounter.json__ file using the __Import->Clipboard__ function available on the NodeRED menu.
